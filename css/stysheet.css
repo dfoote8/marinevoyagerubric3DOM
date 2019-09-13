@@ -1,0 +1,38 @@
+@charset "utf-8";
+/* CSS Document */
+
+body{
+	align-content: center;
+	background-image: url("../images/sarasantandrea.jpg");
+	background-repeat: no-repeat;
+	background-size: auto;
+	background-position: center;
+}
+
+h1{
+color: #01041F;
+}
+.container{
+	background-color: #00FFE3;
+	width: 900px;
+	height: 850px;
+	text-align: center;
+	margin: 0px auto;
+}
+
+nav{
+	background-color: #05A978;
+	height: 60px;
+}
+.nav{
+	align-content: center;
+}
+article{
+	background-color: #A7F8E8;
+	height: 800px;
+	opacity: 60%;
+}
+footer{
+	background-color: #020E29;
+	height: 80px;
+}
